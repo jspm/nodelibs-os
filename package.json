@@ -2,7 +2,6 @@
   "main": "./os.js",
   "name": "jspm-nodelibs-os",
   "version": "0.2.0",
-  "registry": "github",
   "map": {
     "./os.js": {
       "node": "@node/os",
@@ -10,7 +9,7 @@
     }
   },
   "dependencies": {
-    "os-browserify": "npm:os-browserify@^0.2.0"
+    "os-browserify": "^0.2.0"
   },
   "jspmNodeConversion": false
 }
