@@ -1,7 +1,7 @@
 {
   "main": "./os.js",
   "name": "jspm-nodelibs-os",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "map": {
     "./os.js": {
       "node": "@node/os",
