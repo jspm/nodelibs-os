@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "os-browserify": "^0.2.0"
+    "os-browserify": "^0.3.0"
   },
   "jspmNodeConversion": false
 }
